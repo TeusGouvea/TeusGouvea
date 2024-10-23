@@ -35,6 +35,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/M13Sak1ZYMj4iRl28g/giphy.gif?cid=790b761186adba7bjrkt8b7rcug9d62b3okvvud1gf2t7b0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/theus_gouvea/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,10 +50,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/M13Sak1ZYMj4iRl28g/giphy.gif?cid=790b761186adba7bjrkt8b7rcug9d62b3okvvud1gf2t7b0j&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
